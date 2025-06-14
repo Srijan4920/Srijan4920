@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m SRIJAN PAUL  
 👀 I’m interested in Machine Learning, Web Development & Open Source  
-🌱 Currently exploring Deep Learning, Streamlit, and Cloud Deployment  
+🌱 Currently exploring Deep Learning, Streamlit
 🎯 Goal: To build intelligent systems that solve real-world problems  
 📫 Reach me at: srijanpaul6@gmail.com
 
