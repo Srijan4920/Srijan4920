@@ -16,9 +16,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=srijanpaul&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=srijanpaul&theme=neon&hide_border=true)  
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srijanpaul&theme=neon&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-yoghurt.vercel.app/api?username=Srijan4920&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Srijan4920&theme=neon&hide_border=true)  
+![Top Langs](https://github-readme-stats-yoghurt.vercel.app/api/top-langs/?username=Srijan4920&theme=neon&hide_border=true&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies:
