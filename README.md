@@ -1,47 +1,55 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m @srijanpaul  
+👀 I’m interested in Machine Learning, Web Development & Open Source  
+🌱 Currently exploring Deep Learning, Streamlit, and Cloud Deployment  
+🎯 Goal: To build intelligent systems that solve real-world problems  
+📫 Reach me at: srijanpaul6@gmail.com
 
-<!--
-**Srijan4920/Srijan4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijanpaul)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/srijanpaul)
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Srijan! 👋
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)  
 
-🎓 **Student passionate about Data Analysis, AI/ML, and technology!**  
-I love exploring how data can tell stories and inform decisions.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  
 
-## 🚀 Top Skills
-- **Python**  
-- **Power BI**
-- **Artificial Intelligence & Machine Learning**
-- **C**
-- **Kotlin**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
-## 🌦️ Featured Project: Weather Classification
-Curious about how data and AI can make sense of the world around us? Check out my **Weather Classification** project!  
-> Using machine learning, I built a model that classifies weather conditions based on real-world data.  
-It’s a perfect blend of my skills in Python and AI/ML, and my passion for data analysis.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=srijanpaul&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=srijanpaul&theme=neon&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srijanpaul&theme=neon&hide_border=true&layout=compact)
 
-## 📊 Interests
-- Data Analysis & Visualization
-- Building smart solutions with AI/ML
-- Exploring new tech & programming languages
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=srijanpaul&theme=tokyonight&no-frame=true&margin-w=4)
 
-<!--
-## 🌐 Connect with me
-[Add your LinkedIn, Portfolio, or other social links here!]
--->
+### ✍️ Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=srijanpaul&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=srijanpaul&icon=8&color=6)](https://visitcount.itsvg.in)
 
-Always eager to learn, collaborate, and contribute!  
-*Let’s turn data into insights and ideas into reality.* 🚀
+<!-- Designed using GPRM (https://gprm.itsvg.in) -->
