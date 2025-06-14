@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=srijanpaul&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srijanpaul&theme=neon&hide_border=true)  
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srijanpaul&theme=neon&hide_border=true&layout=compact)
