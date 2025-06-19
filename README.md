@@ -21,7 +21,7 @@
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=srijanpaul&theme=tokyonight&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Srijan4920&theme=tokyonight&no-frame=true&margin-w=4)
 
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
