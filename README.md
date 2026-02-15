@@ -21,7 +21,7 @@
 #🔥 Streak & Contributions
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true" /> </p>
 #📈 Overall GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=neon&hide_border=true" /> </p>
 #🧠 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 #📅 Contribution Graph (Dark Theme)
