@@ -15,17 +15,16 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 
-# 📊 GitHub Stats:
-![Srijan4920's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijan4920&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
-##📊 GitHub Dashboard
+
+📊 GitHub Dashboard
 #🔥 Streak & Contributions
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=neon&hide_border=true" /> </p>
 #📈 Overall GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=neon&hide_border=true" /> </p>
 #🧠 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 #📅 Contribution Graph (Dark Theme)
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=neon" /> </p>
 
 
 
