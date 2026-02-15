@@ -17,16 +17,6 @@
 
 # 📊 GitHub Stats:
 ![Srijan4920's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijan4920&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=neon-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&theme=neon&hide_border=true&layout=compact" />
-</p>
-
 
 
 
