@@ -24,7 +24,7 @@
 #🧠 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 #📅 Contribution Graph (Dark Theme)
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=neon" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=tokyonight" /> </p>
 
 
 
