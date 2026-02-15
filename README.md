@@ -21,7 +21,7 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=neon&hide_border=true" /> </p>
 📈 Overall GitHub Stats
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=Srijan4920&theme=dark&show_icons=true)
+![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan4920&theme=dark&show_icons=true)
 </p>
 
 #🧠 Most Used Languages
