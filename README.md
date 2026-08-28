@@ -55,18 +55,14 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=tokyonight" alt="Contribution Details" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
