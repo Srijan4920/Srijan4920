@@ -1,45 +1,87 @@
-# 💫 About Me:
-👋 Hi, I’m SRIJAN PAUL  
-👀 I’m interested in Machine Learning, Web Development & Open Source  
-🌱 Currently exploring Deep Learning, Streamlit
-🎯 Goal: To build intelligent systems that solve real-world problems  
-📫 Reach me at: srijanpaul6@gmail.com
+<div align="center">
+  <h1>Hi, I'm <a href="https://linkedin.com/in/srijan-paul-58bb24292/">Srijan Paul</a> 👋</h1>
+  <p><strong>Machine Learning Engineer & Full-Stack Developer</strong></p>
+  <p><i>Building intelligent systems to solve real-world problems.</i></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-paul-58bb24292/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Srijan4920)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2317682C.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/srijanyzsy/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2359A53A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srijanpaul6)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
-
-
-📊 GitHub Dashboard
-#🔥 Streak & Contributions
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=neon&hide_border=true" /> </p>
-📈 Overall GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-#🧠 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-#📅 Contribution Graph (Dark Theme)
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=tokyonight" /> </p>
-
-
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Srijan4920&theme=tokyonight&no-frame=true&margin-w=4)
-
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Srijan4920&limit=5&theme=neon&combine_all_yearly_contributions=true)
+  <p>
+    <a href="mailto:srijanpaul6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/srijan-paul-58bb24292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/Srijan4920"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.geeksforgeeks.org/user/srijanyzsy/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+    <a href="https://www.hackerrank.com/profile/srijanpaul6"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srijanpaul&icon=8&color=6)](https://visitcount.itsvg.in)
 
-<!-- Designed using GPRM (https://gprm.itsvg.in) -->
+### 💫 About Me
+
+* 🔭 **Specialization:** Machine Learning, Computer Vision & Deep Learning
+* 🛠️ **Current Focus:** End-to-end ML deployment with Streamlit & Full-Stack integration
+* 🌐 **Open Source:** Actively contributing to data-driven and AI/ML projects
+* 🎯 **Mission:** Designing scalable, automated, and intelligent software architectures
+
+---
+
+### 💻 Tech Stack
+
+<div align="left">
+
+**Languages & Core Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Machine Learning & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools, Databases & Deployment**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan4920&theme=tokyonight" alt="Contribution Details" />
+</div>
+
+---
+
+### 🏆 Achievements & Quotes
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijan4920&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=srijanpaul&icon=8&color=6" alt="Visitor Count" />
+  </a>
+</div>
