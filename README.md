@@ -56,14 +56,14 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijan4920&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan4920&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Interactive Metrics Summary -->
+  <img src="https://metrics.lecoq.io/Srijan4920?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.details=bytes-percentage&languages.colors=github&config.timezone=Asia%2FKolkata" alt="Metrics" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srijan4920&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <!-- GitHub Streak Card Alternative Mirror -->
+  <img src="https://github-readme-streak-stats-five.vercel.app?user=Srijan4920&theme=tokyonight&hide_border=true" alt="Streak Stats" width="95%" />
 </p>
-
 ---
 
 ### 🏆 Achievements & Quotes
